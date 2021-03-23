@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/derp_citrus.mk
+    $(LOCAL_DIR)/ancient_citrus.mk
 
 COMMON_LUNCH_CHOICES := \
-    derp_citrus-user \
-    derp_citrus-userdebug \
-    derp_citrus-eng
+    ancient_citrus-eng \
+    ancient_citrus-user \
+    ancient_citrus-userdebug
